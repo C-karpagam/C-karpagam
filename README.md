@@ -1,5 +1,5 @@
 ---
-Hi, I'm Karpagam 👋
+Hi, I'm Karpagam 
 Welcome to my GitHub profile! I'm passionate about **Machine Learning**, **AI**, and **Python**. I enjoy exploring new technologies, solving problems, and contributing to the **open-source community**.
 👀 What I'm interested in:
 - **Machine Learning**: Building models to solve real-world problems.

@@ -8,7 +8,7 @@ interests:
   - Python
   - HTML
   - Open Source Projects
-  - 
+
 current_learning: AI/ML and Front-end development
 
 collaborations: Open-source projects, teaching others
